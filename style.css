@@ -33,12 +33,20 @@ img:hover {
 	font-family: futura;
 }
 
+#mission_headline {
+	text-align: center;
+	margin-top: 70px;
+
+}
+
+
 #references {
-	margin-top: 120px;
+	margin-top: 70px;
+
 }
 
 .missionstatement {
-	margin-top: 70px;
+	margin-top: 40px;
 	font-size: 20px
 }
 
