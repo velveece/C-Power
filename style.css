@@ -56,11 +56,11 @@ img:hover {
 }
 
 .link_bottom {
-	text-align: center
+	align-items: center;
+	margin-top: 40px;
 }
 
 #footer {
-	text-align: center;
 	font-style: italic;
 	color: rgb(80, 80, 80);
 	margin-top: 40px;
