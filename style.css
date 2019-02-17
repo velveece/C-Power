@@ -55,6 +55,10 @@ img:hover {
 	font-family: geneva;
 }
 
+.link_bottom {
+	text-align: center
+}
+
 #footer {
 	text-align: center;
 	font-style: italic;
