@@ -1,0 +1,64 @@
+h1 {
+
+}
+
+.roles img {
+	height: 300px;
+	width: 500px;
+	border-radius: 4px;
+}
+
+img:hover {
+	box-shadow: 20px 20px 30px grey
+}
+
+.people img {
+	width: 280px;
+	border-radius: 5px;
+	margin-top: 30px;
+}
+
+.statements {
+	margin-top: 140px;
+	font-size: 20px
+}
+
+#header {
+	text-align: center;
+	color: white;
+	background-image: url('images/main_image_server_new.jpg');
+	padding: 100px;
+	background-size: cover;
+	opacity: 1.0;
+	font-family: futura;
+}
+
+#references {
+	margin-top: 120px;
+}
+
+.missionstatement {
+	margin-top: 70px;
+	font-size: 20px
+}
+
+.roles {
+	margin-top: 70px;
+	font-family: geneva;
+}
+
+#footer {
+	text-align: center;
+	font-style: italic;
+	color: rgb(80, 80, 80);
+	margin-top: 40px;
+}
+
+#footer a {
+  	color: lightgrey;
+  	font-size: 15px;
+
+}
+#footer a:hover {
+  	color: grey;
+}
